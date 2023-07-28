@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/celinthomaskonnayil/Sample%20Project/_apis/build/status%2FCelinGeorge007.my-website?branchName=main)](https://dev.azure.com/celinthomaskonnayil/Sample%20Project/_build/latest?definitionId=8&branchName=main)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
